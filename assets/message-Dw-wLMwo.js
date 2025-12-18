@@ -1,4 +1,4 @@
-import{a2 as v,r as e}from"./index-5bOZW6p_.js";const j=v("message",()=>{const d=e({pairings:[{adjectives:["熱情","真誠"],content:`最愛跟你交心暢談
+import{a2 as v,r as e}from"./index-BrFFirPu.js";const j=v("message",()=>{const d=e({pairings:[{adjectives:["熱情","真誠"],content:`最愛跟你交心暢談
 八卦小事聊一整天
 心情就能快速充電
 
